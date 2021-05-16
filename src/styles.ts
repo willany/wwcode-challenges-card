@@ -19,7 +19,7 @@ export const Card = styled.section`
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  padding: 4rem;
+  padding: 4rem 1rem;
 
   @media (min-width: 900px) {
     width: 1000px;
