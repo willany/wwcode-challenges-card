@@ -1,3 +1,6 @@
+![CI](https://github.com/willany/wwcode-challenges-card/actions/workflows/heroku.yml/badge.svg)
+[![codecov](https://codecov.io/gh/willany/wwcode-challenges-card/branch/main/graph/badge.svg?token=01SQ9YS5GB)](https://codecov.io/gh/willany/wwcode-challenges-card)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
