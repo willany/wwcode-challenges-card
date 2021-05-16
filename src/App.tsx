@@ -10,7 +10,7 @@ import {
   ImageContainer,
 } from "./styles";
 
-import profileImage from "./assets/willany.jpg";
+import profilePicture from "./assets/willany.jpg";
 import linkedinIcon from "./assets/icons/linkedin.svg";
 import githubIcon from "./assets/icons/github.svg";
 import instagramIcon from "./assets/icons/instagram.svg";
@@ -23,7 +23,7 @@ function App() {
         <Card>
           <ImageContainer>
             <Image
-              src={profileImage}
+              src={profilePicture}
               alt="Mulher com um computador no colo"
             />
           </ImageContainer>
