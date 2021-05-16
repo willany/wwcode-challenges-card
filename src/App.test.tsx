@@ -8,6 +8,12 @@ test("renders card", () => {
   );
 
   expect(
+    screen.getByText(
+      "Software engineer no iFood formada em Tecnologia em Sistemas para internet. Sempre trabalhei como full stack mas hoje estou focada em frontend, de vez em quando faço umas gracinhas com Ruby on Rails 💟"
+    )
+  ).toBeInTheDocument();
+
+  expect(
     screen.getByAltText(/Mulher com um computador no colo/i)
   ).toBeInTheDocument();
 
